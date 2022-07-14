@@ -1,0 +1,6 @@
+[submodule "balance-frontend"]
+	path = balance-frontend
+	url = https://github.com/yyq1025/balance-frontend
+[submodule "balance-backend"]
+	path = balance-backend
+	url = https://github.com/yyq1025/balance-backend
