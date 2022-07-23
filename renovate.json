@@ -1,7 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base"
+    "config:base",
+    ":automergeDigest"
   ],
   "git-submodules": {
     "enabled": true,
@@ -9,12 +10,6 @@
     "fileMatch": [
       "(^|/).gitmodules$"
     ]
-  },
-  "digest": {
-    "branchTopic": "{{{depNameSanitized}}}-digest",
-    "commitMessageExtra": "to {{newDigestShort}}",
-    "commitMessageTopic": "{{{depName}}} digest",
-    "automerge": true
   },
   "ignoreTests": true
 }
