@@ -9,5 +9,11 @@
     "fileMatch": [
       "(^|/).gitmodules$"
     ]
-  }
+  },
+  "packageRules": [
+    {
+      "matchManagers": ["git-submodules"],
+      "enabled": true
+    }
+  ]
 }
