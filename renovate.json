@@ -10,11 +10,11 @@
       "(^|/).gitmodules$"
     ]
   },
-  "packageRules": [
-    {
-      "matchManagers": ["git-submodules"],
-      "automerge": true
-    }
-  ],
+  "digest": {
+    "branchTopic": "{{{depNameSanitized}}}-digest",
+    "commitMessageExtra": "to {{newDigestShort}}",
+    "commitMessageTopic": "{{{depName}}} digest",
+    "automerge": true
+  },
   "ignoreTests": true
 }
