@@ -2,7 +2,8 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base",
-    ":automergeDigest"
+    ":automergeDigest",
+    ":skipStatusChecks"
   ],
   "git-submodules": {
     "enabled": true,
@@ -10,6 +11,5 @@
     "fileMatch": [
       "(^|/).gitmodules$"
     ]
-  },
-  "ignoreTests": true
+  }
 }
