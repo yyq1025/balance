@@ -5,6 +5,16 @@ Check EVM public RPC URLs and token balances at [Balance](https://balance-yangyq
 [![License](https://img.shields.io/github/license/yyq1025/balance)](https://github.com/yyq1025/balance/blob/main/LICENSE)
 [![Renovate status](https://img.shields.io/badge/renovate-enabled-brightgreen?logo=renovatebot)](https://github.com/yyq1025/balance/issues/17)
 
+## Responsive Design
+
+### Desktop
+
+![Desktop](/assets/desktop.png)
+
+### iPad Air
+
+![iPad Air](/assets/iPad-Air.png)
+
 ## 100% Serverless, 100% Free Stack
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
