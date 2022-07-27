@@ -15,6 +15,14 @@ Check EVM public RPC URLs and token balances at [Balance](https://balance-yangyq
 
 ![iPad Air](/assets/iPad-Air.png)
 
+### iPad Mini
+
+![iPad Mini](/assets/iPad-Mini.png)
+
+### iPhone 12 Pro
+
+![iPhone 12 Pro](/assets/iPhone-12-Pro.png)
+
 ## 100% Serverless, 100% Free Stack
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
