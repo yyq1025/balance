@@ -1,29 +1,27 @@
 # Balance
 
-Check EVM public RPC URLs and token balances at [Balance](https://balance-yangyq.vercel.app).
+Check EVM-chain public RPC URLs and token balances at [Balance](https://balance-yangyq.vercel.app).
 
 [![License](https://img.shields.io/github/license/yyq1025/balance)](https://github.com/yyq1025/balance/blob/main/LICENSE)
+[![React](https://img.shields.io/github/package-json/dependency-version/yyq1025/balance-frontend/react?color=61DAFB&logo=react&logoColor=white)](https://github.com/yyq1025/balance-frontend)
+[![Go version](https://img.shields.io/github/go-mod/go-version/yyq1025/balance-backend?color=00ADD8&logo=go&logoColor=white)](https://github.com/yyq1025/balance-backend)
 [![Renovate status](https://img.shields.io/badge/renovate-enabled-brightgreen?logo=renovatebot)](https://github.com/yyq1025/balance/issues/17)
 
 ## Responsive Design
 
-### Desktop
+Account for every screen size. 🖥️💻📱
 
-![Desktop](/assets/desktop.png)
+![responsive.gif](/assets/responsive.gif)
 
-### iPad Air
+## Infinite Scroll with Concurrent Requests
 
-![iPad Air](/assets/iPad-Air.png)
+Load only if needed.
 
-### iPad Mini
-
-![iPad Mini](/assets/iPad-Mini.png)
-
-### iPhone 12 Pro
-
-![iPhone 12 Pro](/assets/iPhone-12-Pro.png)
+![infinite-scroll.gif](/assets/infinite-scroll.gif)
 
 ## 100% Serverless, 100% Free Stack
+
+Pursue flexibility with sustainablity.
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
@@ -34,7 +32,7 @@ Check EVM public RPC URLs and token balances at [Balance](https://balance-yangyq
 
 ![Architecture](/assets/balance.drawio.png)
 
-## [Frontend](https://github.com/yyq1025/balance-frontend)
+<!-- ## [Frontend](https://github.com/yyq1025/balance-frontend)
 
 [![Lines of code](https://img.shields.io/tokei/lines/github/yyq1025/balance-frontend)](https://github.com/yyq1025/balance-frontend)
 [![TypeScript](https://img.shields.io/github/package-json/dependency-version/yyq1025/balance-frontend/dev/typescript?color=3178C6&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -46,4 +44,4 @@ Check EVM public RPC URLs and token balances at [Balance](https://balance-yangyq
 ## [Backend](https://github.com/yyq1025/balance-backend)
 
 [![Lines of code](https://img.shields.io/tokei/lines/github/yyq1025/balance-backend)](https://github.com/yyq1025/balance-backend)
-[![Go version](https://img.shields.io/github/go-mod/go-version/yyq1025/balance-backend?color=00ADD8&logo=go&logoColor=white)](https://go.dev/)
+[![Go version](https://img.shields.io/github/go-mod/go-version/yyq1025/balance-backend?color=00ADD8&logo=go&logoColor=white)](https://go.dev/) -->
