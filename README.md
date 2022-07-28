@@ -19,6 +19,12 @@ Load only if needed.
 
 ![infinite-scroll.gif](/assets/infinite-scroll.gif)
 
+## Rich Feedback
+
+Always keep users on the right track.
+
+![feedbacks.gif](/assets/feedbacks.gif)
+
 ## 100% Serverless, 100% Free Stack
 
 Pursue flexibility with sustainablity.
@@ -31,6 +37,29 @@ Pursue flexibility with sustainablity.
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 ![Architecture](/assets/balance.drawio.png)
+
+## Try it Yourself
+
+Example wallet addresses and token addresses.
+
+Wallet Addresses
+ - Binance Hot Wallets
+   - 0xBE0eB53F46cd790Cd13851d5EFf43D12404d33E8
+   - 0xF977814e90dA44bFA03b6295A0616a897441aceC
+   - 0x28C6c06298d514Db089934071355E5743bf21d60
+ - OKX Hot Wallets
+   - 0xA7EFAe728D2936e78BDA97dc267687568dD593f3
+   - 0x98EC059Dc3aDFBdd63429454aEB0c990FBA4A128
+ - FTX Hot Wallets
+   - 0xC098B2a3Aa256D2140208C3de6543aAEf5cd3A94
+   - 0x2FAF487A4414Fe77e2327F0bf4AE2a264a776AD2
+
+Token Addresses
+  - Ethereum
+    - USDT: 0xdAC17F958D2ee523a2206206994597C13D831ec7
+    - USDC: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48
+    - DAI: 0x6B175474E89094C44Da98b954EedeAC495271d0F
+    - SHIB: 0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE
 
 ## More Details
 
