@@ -42,7 +42,7 @@ Pursue flexibility with sustainablity.
 
 Example wallet addresses and token addresses.
 
-Wallet Addresses
+**Wallet Addresses**
  - Binance Hot Wallets
    - 0xBE0eB53F46cd790Cd13851d5EFf43D12404d33E8
    - 0xF977814e90dA44bFA03b6295A0616a897441aceC
@@ -54,7 +54,7 @@ Wallet Addresses
    - 0xC098B2a3Aa256D2140208C3de6543aAEf5cd3A94
    - 0x2FAF487A4414Fe77e2327F0bf4AE2a264a776AD2
 
-Token Addresses
+**Token Addresses**
   - Ethereum
     - USDT: 0xdAC17F958D2ee523a2206206994597C13D831ec7
     - USDC: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48
